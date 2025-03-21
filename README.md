@@ -7,9 +7,9 @@ I’m passionate about building scalable data pipelines and turning raw data int
 ---
 
 ## 🛠️ Skills
-- **Cloud**: ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) Azure Data Factory, Synapse Analytics, Data Lake
-- **Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-- **Tools**: Git, Databricks, Power BI
+- **Cloud**: ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) Azure Data Factory, Synapse Analytics,Azure Data Lake, Azure DataBricks
+- **Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) , Pyspark
+- **Tools**: Git, Databricks, Power BI, ZoomData
 
 ## 🎓 Certifications
 - Microsoft Certified: **Azure Data Engineer Associate (DP-203)**  
