@@ -7,13 +7,19 @@ I’m passionate about building scalable data pipelines and turning raw data int
 ---
 
 ## 🛠️ Skills
-- **Cloud**: ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) Azure Data Factory, Synapse Analytics,Azure Data Lake, Azure DataBricks
-- **Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) , Pyspark
+- **Cloud**: ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) Azure Data Factory, Synapse Analytics, Azure Data Lake, Azure Databricks
+- **Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white), PySpark
 - **Tools**: Git, Databricks, Power BI, ZoomData
 
 ## 🎓 Certifications
 - Microsoft Certified: **Azure Data Engineer Associate (DP-203)**  
 - Microsoft Certified: **Azure Data Fundamentals (DP-900)**  
+
+## 🚀 Projects
+- **Real-Time Weather Streaming and Forecasting Dashboard**  
+  🌦️ Explore the Weather Pipeline <a href="https://github.com/amandeepnitj/Azure-Weather-Streaming" style="text-decoration: none; color: #FFFFFF;">[Link]</a>  
+- **End-to-End Data Pipeline for Analytics**  
+  📊 Dive into Data Insights <a href="https://github.com/amandeepnitj/Azure-Data-Engineer-Project" style="text-decoration: none; color: #FFFFFF;">[Link]</a>
 
 ## 🌟 What I’m Working On
 - Building ETL pipelines with Azure Data Factory
