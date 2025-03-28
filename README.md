@@ -19,7 +19,7 @@ I’m passionate about building scalable data pipelines and turning raw data int
 - **Real-Time Weather Streaming and Forecasting Dashboard**  
   🌦️ Explore the Weather Pipeline <a href="https://github.com/amandeepnitj/Azure-Weather-Streaming" style="text-decoration: none; color: #FFFFFF;">[Link]</a>  
 - **End-to-End Data Pipeline for Analytics**  
-  📊 Dive into Data Insights <a href="https://github.com/amandeepnitj/Azure-Data-Engineer-Project" style="text-decoration: none; color: #FFFFFF;">[Link]</a>
+  📊 Dive into Data Insights <a href="https://github.com/amandeepnitj/Sales-Sync-Analytics" style="text-decoration: none; color: #FFFFFF;">[Link]</a>
 
 ## 🌟 What I’m Working On
 - Building ETL pipelines with Azure Data Factory
